@@ -1,0 +1,46 @@
+body{
+background-color: #F1FBF7;
+color: navy ;
+font-family: 'Times New Roman', serif ;
+font-size: 14px;
+
+}
+
+label {
+background-color: yellow;
+display: flex;
+justify-content: center;
+margin: 5px;
+padding: 2px;
+
+}
+
+h1 {
+  display: flex;
+justify-content: center;
+}
+
+p {
+  display: flex;
+justify-content: center;
+}
+
+select {
+  display: flex;
+justify-content: center;
+}
+
+dropdown {
+  justify-content: center;
+}
+
+.text {
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+
+input {
+  display: flex;
+  justify-content: center;
+}
